@@ -1,2 +1,1 @@
-CHAOS THEORY 
-Made with AI
+CHAOS THEORY \nMade with AI
